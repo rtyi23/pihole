@@ -11,3 +11,62 @@
 # Mouseflow
 0.0.0.0 tools.mouseflow.com
 0.0.0.0 cdn-test.mouseflow.com
+
+# Hotjar
+0.0.0.0 adm.hotjar.com
+0.0.0.0 identify.hotjar.com
+0.0.0.0 insights.hotjar.com
+0.0.0.0 surveys.hotjar.com
+0.0.0.0 events.hotjar.io
+
+# Freshworks
+0.0.0.0 freshmarketer.com
+0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
+
+# Luckyorange
+0.0.0.0 api.luckyorange.com
+0.0.0.0 realtime.luckyorange.com
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 w1.luckyorange.com
+
+# Bugsnag
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+
+# Sentry
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 app.getsentry.com
+
+# Pinterest
+0.0.0.0 widgets.pinterest.com
+
+# Reddit
+0.0.0.0 events.reddit.com
+
+# TikTok
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 log.byteoversea.com
+
+# Yahoo
+0.0.0.0 udc.yahoo.com
+0.0.0.0 udcm.yahoo.com
+0.0.0.0 log.fc.yahoo.com
+0.0.0.0 adtech.yahooinc.com
+
+# Apple
+0.0.0.0 advertising.apple.com
+0.0.0.0 api-adservices.apple.com
+0.0.0.0 books-analytics-events.apple.com
+
+# Samsung
+0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 analytics-api.samsunghealthcn.com
+
+
+
+
+
+
