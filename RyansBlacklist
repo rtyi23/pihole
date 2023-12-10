@@ -1,2 +1,13 @@
 # This is my custom list of blocked ad domains
 
+# Amazon
+analyticsengine.s3.amazonaws.com
+analytics.s3.amazonaws.com
+advertising-api-eu.amazon.com
+
+# Google
+afs.googlesyndication.com
+
+# Mouseflow
+tools.mouseflow.com
+cdn-test.mouseflow.com
