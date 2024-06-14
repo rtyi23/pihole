@@ -8,6 +8,7 @@
 
 # Google
 0.0.0.0 afs.googlesyndication.com
+0.0.0.0 googleads.g.doubleclick.net
 
 # Doubleclick(dot)net
 0.0.0.0 mediavisor.doubleclick.net
