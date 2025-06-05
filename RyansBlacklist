@@ -13,7 +13,6 @@
 # Doubleclick(dot)net
 0.0.0.0 mediavisor.doubleclick.net
 0.0.0.0 adclick.g.doubleclick.net
-0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 doubleclick.net
 
 # Mouseflow
@@ -96,6 +95,8 @@
 0.0.0.0 mediago.io
 0.0.0.0 mfadsrvr.com
 0.0.0.0 audienceexposure.com
+0.0.0.0 blogher.com
+0.0.0.0 lifestyletechtips.com
 
 
 
